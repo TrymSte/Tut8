@@ -11,5 +11,9 @@ def 2_6_Dice():
     return l
 
 def 1_3_Dice():
-    return random.randing(1,3)
+    return random.randint(1,3)
+
+def 1_10_Dice():
+    return random.randint(1,10)
+
 
