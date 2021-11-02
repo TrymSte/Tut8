@@ -10,3 +10,6 @@ def 2_6_Dice():
         l.append(random.randint(1,6))
     return l
 
+def 1_3_Dice():
+    return random.randing(1,3)
+
