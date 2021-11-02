@@ -17,3 +17,4 @@ def 1_10_Dice():
     return random.randint(1,10)
 
 
+#one must call a function to make this script usefull
